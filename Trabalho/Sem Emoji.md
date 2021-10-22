@@ -19,7 +19,8 @@ Tabela de conteúdos
 <!--te-->
 
 <h4 align="center"> 
-	Em desenvolvimento.
+      	✔️  Pronto  ✔️
+  🚧  Em desenvolvimento.  🚧
 </h4>
 
 ## Sobre
