@@ -19,15 +19,15 @@ Tabela de conteúdos
 <!--te-->
 
 <h4 align="center"> 
-	✔️  Pronto  ✔️
+      	✔️  Pronto  ✔️
   🚧  Em desenvolvimento.  🚧
 </h4>
 
-## ❓ Sobre
+## Sobre
 
 Falar sobre porem com mais detalhes
 
-## ✔️ Tabela de conteudo
+## Tabela de conteudo
 
 - [x] Conteudo
 - [ ] Conteudo
@@ -35,20 +35,20 @@ Falar sobre porem com mais detalhes
 - [ ] Conteudo
 - [ ] Conteudo
 
-## ❓ Instalação
+## Instalação
 
 Falar como instalar o programa na maquina
 Falar tambem como deve ser instalado bibliotecas ou arquivos adicionais
 
-## ❓ Como usar
+## Como usar
 
 Falar como deve ser usado e explicar as funções do arquivo
 
-## 🔨 Pre Requisitos
+## Pre Requisitos
 
 Falar sobre o que precisa para rodar o programa e como
 
-## 🚀 Tecnologias
+## Tecnologias
 
 <table>
     <tr>
