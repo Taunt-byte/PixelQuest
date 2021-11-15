@@ -1,4 +1,4 @@
-# Teste de README para Repositorio no GitHub
+# README para Repositorio no GitHub
 
 + Status: Em Desenvolvimento
 
